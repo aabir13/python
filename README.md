@@ -1,1 +1,3 @@
 # python
+
+I have tried to cover all the useful python operations and commands which shall be needed for building the basic blocks of python programming for Machine Learning...
